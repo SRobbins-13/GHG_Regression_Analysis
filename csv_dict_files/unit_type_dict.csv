@@ -1,0 +1,36 @@
+Unit_type,Unit_group
+CH (Comfort heater),Heater
+"NGLH (Heater, natural gas line)",Natural Gas Line
+RICE (Reciprocating internal combustion engine),Combustion
+OCS (Other combustion source),Combustion
+Electricity Generator,Electricity Generator
+"OB (Boiler, other)",Boiler
+"BFB (Boiler, bubbling fluidized bed)",Boiler
+"CFB (Boiler, circulating fluidized bed)",Boiler
+FLR (Flare),Heater adjacent
+"SCCT (CT (Turbine, simple cycle combustion))",Combustion
+"CCCT (CC (Turbine, combined cycle))",Combustion
+PRH (Process Heater),Heater
+"HWH (Heater, hot water)",Heater
+Chemical Recovery Furnace,Furnace
+"ICI (Incinerator, commercial and industrial)",Combustion
+Pulp Mill Lime Kiln,Heater adjacent
+S (Stoker Boiler),Boiler
+F (Furnace),Furnace
+COB (By-product recovery coke oven battery combustion stacks (_98.172)),Combustion
+"TODF (Thermal oxidizer, direct fired, no heat recovery)",Oxidizer
+"HMH (Heater, heat medium for heat exchange)",Heater
+Q (Other Subpart Q combustion sources not otherwise listed.),Combustion
+O (Oven),Heater adjacent
+"PCWD (Pulverized coal, wall-fired, dry bottom)",Pulverized Coal
+PD (Product or intermediate product dryer),Heater adjacent
+RTO (Regenerative thermal oxidizer),Oxidizer
+MWC (Municipal waste combustor),Combustion
+Chemical Recovery Combustion Unit,Combustion
+"PCT (Pulverized coal, tangentially-fired)",Pulverized Coal
+"PCO (Pulverized coal, other)",Pulverized Coal
+C (Calciner),Heater adjacent
+"OFB (Fluidized bed, other)",Combustion
+K (Kiln),Heater adjacent
+"II (Incinerator, institutional)",Combustion
+"PFB (Boiler, pressurized fluidized bed)",Boiler

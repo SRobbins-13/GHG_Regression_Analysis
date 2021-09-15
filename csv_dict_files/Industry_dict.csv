@@ -1,0 +1,47 @@
+Industry_type,Industry_group
+Power Plants,Power Plants
+Other,Other
+Petroleum and Natural Gas Systems,Petroleum and Natural Gas Systems
+Minerals,Metals/Minerals
+"Other, Waste",Waste
+Pulp and Paper,Pulp and Paper
+Waste,Waste
+Chemicals,Chemicals
+"Chemicals, Suppliers of CO2",Chemicals
+"Pulp and Paper, Waste",Pulp and Paper
+"Other, Suppliers of CO2",CO2
+Metals,Metals/Minerals
+"Other, Suppliers of CO2, Waste",CO2
+"Injection of CO2, Other, Suppliers of CO2, Waste",CO2
+"Natural Gas and Natural Gas Liquids Suppliers, Petroleum and Natural Gas Systems",Petroleum and Natural Gas Systems
+"Injection of CO2, Petroleum and Natural Gas Systems, Suppliers of CO2",CO2
+"Petroleum and Natural Gas Systems, Suppliers of CO2",Petroleum and Natural Gas Systems
+"Power Plants, Suppliers of CO2",Power Plants
+"Chemicals, Petroleum Product Suppliers, Refineries, Waste",Petroleum and Natural Gas Systems
+"Chemicals, Petroleum Product Suppliers, Refineries, Suppliers of CO2",Petroleum and Natural Gas Systems
+"Petroleum Product Suppliers, Refineries",Refineries
+"Chemicals, Other, Petroleum Product Suppliers, Power Plants, Refineries",Refineries
+"Injection of CO2, Natural Gas and Natural Gas Liquids Suppliers, Petroleum and Natural Gas Systems, Suppliers of CO2",CO2
+"Petroleum and Natural Gas Systems, Power Plants",Petroleum and Natural Gas Systems
+"Other, Petroleum and Natural Gas Systems",Petroleum and Natural Gas Systems
+"Chemicals, Refineries, Waste",Waste
+"Chemicals, Refineries, Suppliers of CO2",Chemicals
+Refineries,Refineries
+"Power Plants, Waste",Power Plants
+"Chemicals, Petroleum Product Suppliers, Refineries",Refineries
+"Chemicals, Waste",Waste
+"Chemicals, Other, Petroleum and Natural Gas Systems, Waste",Chemicals
+"Chemicals, Power Plants",Chemicals
+"Chemicals, Petroleum Product Suppliers, Power Plants, Refineries",Petroleum and Natural Gas Systems
+"Import and Export of Equipment Containing Fluorintaed GHGs, Other",Other
+"Chemicals, Refineries",Refineries
+"Petroleum Product Suppliers, Power Plants, Refineries",Power Plants
+"Metals, Waste",Metals/Minerals
+"Pulp and Paper, Suppliers of CO2, Waste",Pulp and Paper
+"Chemicals, Coal-based Liquid Fuel Supply, Suppliers of CO2",Chemicals
+"Injection of CO2, Petroleum and Natural Gas Systems",CO2
+"Other, Power Plants",Power Plants
+"Metals, Minerals",Metals/Minerals
+"Injection of CO2, Power Plants, Suppliers of CO2",CO2
+"Industrial Gas Suppliers, Petroleum and Natural Gas Systems",Petroleum and Natural Gas Systems
+"Chemicals, Petroleum Product Suppliers, Refineries, Suppliers of CO2, Waste",Refineries
